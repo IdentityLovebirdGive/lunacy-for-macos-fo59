@@ -1,4 +1,4 @@
-# 
+# Enhance Lunacy for macOS with Lunacy for macOS premium Action: plugin support & vector export, the #1 action. Includes plugin support and vector export for a smoother and more
 
 
 
